@@ -80,6 +80,7 @@
                   <Component id="jButton7" alignment="1" pref="308" max="32767" attributes="0"/>
                   <Component id="jButton8" alignment="1" pref="308" max="32767" attributes="0"/>
                   <Component id="jButton9" alignment="1" pref="308" max="32767" attributes="0"/>
+                  <Component id="jButton10" alignment="1" pref="308" max="32767" attributes="0"/>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
           </Group>
@@ -106,8 +107,10 @@
                       <Component id="jButton8" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                       <Component id="jButton9" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jButton10" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="32767" attributes="0"/>
-                      <Component id="jScrollPane3" min="-2" pref="59" max="-2" attributes="0"/>
+                      <Component id="jScrollPane3" min="-2" pref="30" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
                   </Group>
                   <Group type="102" attributes="0">
@@ -320,6 +323,11 @@
     <Component class="javax.swing.JButton" name="jButton9">
       <Properties>
         <Property name="text" type="java.lang.String" value="(&#xca0;&#x2323;&#xca0;)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x4e47;&#x4e42;&#x3112;&#x5c3a;&#x5342; &#x3112;&#x5344;&#x4e28;&#x531a;&#x531a; "/>
       </Properties>
     </Component>
   </SubComponents>
